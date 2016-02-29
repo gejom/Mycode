@@ -10,5 +10,5 @@ extern void *arraylist_get(ArrayList *, int);
 extern void arraylist_remove(ArrayList *, int);
 extern void arraylist_clear(ArrayList *);
 extern void arraylist_deallocate(ArrayList *);
-//added for test by gejo
+//added for test by gejo edited
 #endif /* _ARRAYLIST_H */
